@@ -1,0 +1,16 @@
+aiohttp
+datasets
+fastapi
+httpx
+huggingface-hub
+numpy
+omegaconf
+openai
+pandas
+pyarrow
+pydantic
+torch
+transformers
+uvicorn
+vllm
+
